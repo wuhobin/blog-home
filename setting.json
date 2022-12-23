@@ -1,0 +1,46 @@
+{
+    "title": "Bywindの主页",
+    "description": "一个默默无闻的主页",
+    "keywords": "Bywind,个人主页",
+    "author": "Bywind",
+    "logo_img": "./img/icon/logo.png",
+    "logo_text_1": "Bywind",
+    "logo_text_2": "xyz",
+    "github": "haonan15",
+    "qq": "1849907187",
+    "email": "1849907187@qq.com",
+    "bilibili": "689756568",
+    "facebook": "bottom_user",
+    "link_1": [
+        "https://blog.bywind.xyz/",
+        "fa-solid fa-blog",
+        "博客"
+    ],
+    "link_2": [
+        "https://tongji.baidu.com/",
+        "fa-solid fa-cloud",
+        "统计"
+    ],
+    "link_3": [
+        "https://blog.bywind.xyz/music/",
+        "fa-solid fa-music",
+        "音乐"
+    ],
+    "link_4": [
+        "https://www.bywind.xyz/",
+        "fa-solid fa-compass",
+        "起始页"
+    ],
+    "link_5": [
+        "https://blog.bywind.xyz/stars/",
+        "fa-solid fa-book-bookmark",
+        "网址集"
+    ],
+    "link_6": [
+        "https://www.bywind.xyz/",
+        "fa-solid fa-flask",
+        "开发中..."
+    ],
+    "Copyright_text": "Bywind",
+    "beian": "晋ICP备2022009208-1"
+}

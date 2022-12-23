@@ -402,7 +402,7 @@ color: rgb(244,167,89);
 let styleContent = `
 color: rgb(30,152,255);
 `
-let title1 = 'Jayhrnの主页'
+let title1 = 'Bywindの主页'
 let title2 = `
      ____.             .__                  
     |    |____  ___.__.|  |_________  ____  
@@ -412,8 +412,8 @@ let title2 = `
               \\/\\/          \\/           \\/                                                    
 `
 let content = `
-博客:  https://blog.jayhrn.com
-Github:  https://github.com/Jayhrn
+博客:  https://blog.bywind.xyz
+Github:  https://github.com/haonan15
 `
 console.log(`%c${title1} %c${title2}
 %c${content}`, styleTitle1, styleTitle2, styleContent)

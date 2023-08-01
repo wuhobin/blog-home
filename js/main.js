@@ -402,7 +402,7 @@ color: #425AEF;
 let styleContent = `
 color: rgb(30,152,255);
 `
-let title1 = 'Bywindの主页'
+let title1 = '随风起の主页'
 let title2 = `
 
 ██████╗ ██╗   ██╗██╗    ██╗██╗███╗   ██╗██████╗ 

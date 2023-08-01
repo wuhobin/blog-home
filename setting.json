@@ -1,8 +1,8 @@
 {
-    "title": "Bywindの主页",
+    "title": "随风起の主页",
     "description": "一个默默无闻的主页",
-    "keywords": "Bywind,个人主页",
-    "author": "Bywind",
+    "keywords": "随风起,个人主页",
+    "author": "随风起",
     "logo_img": "./img/icon/logo.png",
     "logo_text_1": "Bywind",
     "logo_text_2": "xyz",
@@ -42,5 +42,5 @@
         "开发中..."
     ],
     "Copyright_text": "Bywind",
-    "beian": "晋ICP备2022009208-1"
+    "beian": "晋ICP备2023017784号"
 }

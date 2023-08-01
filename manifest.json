@@ -1,6 +1,6 @@
 {
-  "name": "Bywindの主页",
-  "short_name": "Bywindの主页",
+  "name": "随风起の主页",
+  "short_name": "随风起の主页",
   "description": "一个默默无闻的主页",
   "display": "standalone",
   "start_url": "/",

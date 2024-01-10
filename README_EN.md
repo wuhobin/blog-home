@@ -1,11 +1,11 @@
 English | [Chinese](./README.md)
 
 <p>
-<strong><h2>無名の主页</h2></strong>
+<strong><h2>Auroraの主页</h2></strong>
 Simple little homepage, had enough of the original one and made a new one
 </p>
 
-![無名の主页](https://s2.loli.net/2022/07/14/K5JigfvDoNewtuS.webp)
+![Auroraの主页](https://s2.loli.net/2022/07/14/K5JigfvDoNewtuS.webp)
 
 >The logo font on the home page has been compressed, so if you use a font other than this logo, it will change back to the default font, Here is the [full font](https://file.imsyy.top/font/Pacifico-Regular.ttf)  
 
@@ -13,8 +13,8 @@ Simple little homepage, had enough of the original one and made a new one
 
 >Due to CDN caching, you may need `Ctrl` + `F5` to force a browser cache refresh to see the latest results
 
-- [無名の主页](https://www.imsyy.top)
-- [無名の主页 - 备用线路](https://home-imsyy.vercel.app/)
+- [Auroraの主页](http://www.wuhobin.top)
+
 
 ### Functions
 

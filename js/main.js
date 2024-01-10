@@ -136,15 +136,16 @@ $('#hitokoto').click(function () {
 //获取天气
 //请前往 https://www.mxnzp.com/doc/list 申请 app_id 和 app_secret
 //请前往 https://dev.qweather.com/ 申请 key
-const add_id = "iiksfxjnuowmpmkq"; // app_id
-const app_secret = "S2tDNlo5YktrdE1DekI1TzRKL2ZzQT09"; // app_secret
-const key = "b70da00492544af49f247b92f82c502c" // key
+const add_id = "vcpmlmqiqnjpxwq1"; // app_id
+const app_secret = "PeYnsesgkmK7qREhIFppIcsoN0ZShv3c"; // app_secret
+const key = "691d007d585841c09e9b41e79853ecc2" // key
 function getWeather() {
     fetch("https://www.mxnzp.com/api/ip/self?app_id=" + add_id + "&app_secret=" + app_secret)
         .then(response => response.json())
         .then(data => {
             let str = data.data.city
             let city = str.replace(/市/g, '')
+            console.log(data,"sssss")
             $('#city_text').html(city);
             fetch("https://geoapi.qweather.com/v2/city/lookup?location=" + city + "&number=1&key=" + key)
                 .then(response => response.json())
@@ -402,7 +403,7 @@ color: #425AEF;
 let styleContent = `
 color: rgb(30,152,255);
 `
-let title1 = '随风起の主页'
+let title1 = 'Auroraの主页'
 let title2 = `
 
 ██████╗ ██╗   ██╗██╗    ██╗██╗███╗   ██╗██████╗ 
